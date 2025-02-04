@@ -1,5 +1,5 @@
-Projeto leilão.
+# Projeto leilão.
+O projeto se trata do banco de dados e arquivos java de um leilão apenas para atividade 1 da UC11.
 
-O projeto se trata do banco de dados e arquivos java de um leilão.
-
-Tecnolgias utilizadas: Java e MySQL
+# Tecnolgias utilizadas
+Java e MySQL
